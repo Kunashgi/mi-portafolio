@@ -22,7 +22,7 @@ const AboutMe = () => {
     linkedin: "https://www.linkedin.com/in/eduardo-barrera-veloso-1783a5228/",
     location: "Nacimiento 1379 San Bernardo, Chile",
     birthdate: "12 de junio del 2000",
-    profileImage: "https://media.licdn.com/dms/image/v2/D4E03AQEGXvt6KJ6A6w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1671206785463?e=1750896000&v=beta&t=FWKrvTT_zgGf5I2hOLFw3vujZV7tsBqe5FP2bU7_pko",
+    profileImage: "https://cf.workana.com/logos/a24d701db16f2ea081d50cca9aca3a73/xv/WhatsAppImage20250719at72850PM_192_192.jpeg",
     skillGroups: [
       {
         main: "JavaScript",
